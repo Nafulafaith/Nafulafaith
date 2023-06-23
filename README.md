@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nafulafaith
 - 👀 I’m interested in python programming and web development
-- 🌱 I’m currently learning Flask for Python, HTML,CSS and JS
+- 🌱 I’m currently learning Flask for Python, HTML, CSS and JS
 - 💞️ I’m looking to collaborate on more projects on Python
 - 📫 How to reach me nafulafaithe022@gmail.com
 
